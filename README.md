@@ -1,4 +1,4 @@
-# CITC University Course Timetabling with ETFCSA-TSD
+# CITC University Course Timetabling with SDCSA
 
 **Thesis Project** — University of Science and Technology of the Philippines (USTP)
 **Department:** College of Information Technology and Computing (CITC)
